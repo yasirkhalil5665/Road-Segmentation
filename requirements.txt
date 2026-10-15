@@ -1,6 +1,7 @@
-torch
-torchvision
-numpy
-Pillow
-ipykernel
-matplotlib
+torch>=2.2
+numpy>=1.26
+pillow>=10.0
+matplotlib>=3.8
+ipykernel>=6.29
+jupyter>=1.0
+ 
