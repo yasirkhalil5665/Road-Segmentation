@@ -3,7 +3,8 @@
 Binary semantic segmentation of roads from camera images using a U-Net built in PyTorch.
 The model takes an RGB image and predicts a mask where road pixels are 1 and everything else is 0.
 
-![alt text](<Screenshot From 2026-10-15 23-01-55.png>)
+<img width="1438" height="697" alt="Screenshot From 2026-10-15 23-01-55" src="https://github.com/user-attachments/assets/57dcb360-e4a8-4a2e-b6e6-5a73d0ccc7e8" />
+
 
 ## Project structure
 
